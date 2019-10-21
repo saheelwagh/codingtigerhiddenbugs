@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in Goa building
-        useful things.
+        An attempt by <strong>{author}</strong> to code apps and decode his
+        mind.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
