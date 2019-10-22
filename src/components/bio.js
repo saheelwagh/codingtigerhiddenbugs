@@ -57,7 +57,7 @@ const Bio = () => {
         An attempt by <strong>{author}</strong> to code apps and decode his
         mind.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
+        <a href={`https://medium.com/@codingtigerhiddenbugs`}>
           You should follow him on Twitter
         </a>
       </p>
