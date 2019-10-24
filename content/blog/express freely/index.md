@@ -3,7 +3,7 @@ title: Express Freely
 date: "2019-10-24T11:14:37.121Z"
 ---
 
-> ***Creativity***
+> *** Creativity ***
 > ​the ability to use skill and imagination to produce something new or to produce art; 
 > the act of doing this
 >  -Oxford Dictionary
