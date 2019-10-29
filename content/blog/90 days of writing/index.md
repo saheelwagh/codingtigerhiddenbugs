@@ -17,10 +17,10 @@ It goes like this
 6. Be rejected, at least once a month. I will start submitting articles to newspapers
 7. Blog every day. This blog is an effort towards the same.
 
-My start date for this challenge: 1st November
-Estimated end date : 28th February 2019
+> My start date for this challenge: 1st November
+> Estimated end date : 28th February 2019
 
-Potential benefits (written in present term by my furute self). For details on this startegy read the book, 'Think and Grow Rich' :
+> Potential benefits (written in present term by my furute self). For details on this startegy read the book, 'Think and Grow Rich' :
 
 1. Stripe has begun business in India and I have begun earning through its partner program.
 2. I am being invited for writing paid articles.
